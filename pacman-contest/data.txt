@@ -1,0 +1,1 @@
+{'food': 93.19970348920681, 'foodCarry': 260.0637492041355, 'distanceHome': 1138.773437266105, 'capsule': 90, 'ghostMin': -100, 'ghostMax': -100, 'ways': 0, 'friend': -50, 'b': 55.172944964376505}

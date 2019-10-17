@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bdb028c0-461d-4757-8309-5196c11f4c45" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/contest04Capture.lay" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/contest10Capture.lay" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/contest19cCapture.lay" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/contestCapture.lay" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testTeam.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baselineTeam.py" beforeDir="false" afterPath="$PROJECT_DIR$/baselineTeam.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/captureAgents.py" beforeDir="false" afterPath="$PROJECT_DIR$/captureAgents.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distanceCalculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/distanceCalculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generateTournamentLayouts.py" beforeDir="false" afterPath="$PROJECT_DIR$/generateTournamentLayouts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/tinyCapture.lay" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/tinyCapture.lay" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myTeam.py" beforeDir="false" afterPath="$PROJECT_DIR$/myTeam.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/pacman_contest$generateTournamentLayouts.coverage" NAME="generateTournamentLayouts Coverage Results" MODIFIED="1571200653357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pacman_contest$generateTournamentLayouts__1_.coverage" NAME="generateTournamentLayouts (1) Coverage Results" MODIFIED="1570704089031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pacman_contest$capture.coverage" NAME="capture Coverage Results" MODIFIED="1571221515955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>print</find>
+      <find>save</find>
+      <find>food being eaten</find>
+      <find>defencetarget</find>
+      <find>goback</find>
+      <find>chase</find>
+      <find>defence</find>
+      <find>capsule</find>
+      <find>goeat</find>
+      <find>savefriend</find>
+      <find>headingforcap</find>
+      <find>abs</find>
+      <find>5</find>
+      <find>safefood</find>
+      <find>num</find>
+      <find>self.defence</find>
+      <find>save your friend</find>
+      <find>29, 1</find>
+      <find>initials</find>
+      <find>capsule': 4</find>
+      <find>12, 1</find>
+      <find>setupt</find>
+      <find>features[&quot;capsule&quot;] = 2</find>
+      <find>123</find>
+      <find>head</find>
+      <find>target</find>
+      <find>nearestFoo</find>
+      <find>6</find>
+      <find>safe food</find>
+      <find>wonder</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/game.py" />
+        <option value="$PROJECT_DIR$/layouts/TestTeam.py" />
+        <option value="$PROJECT_DIR$/layouts/testTeam.py" />
+        <option value="$PROJECT_DIR$/captureAgents.py" />
+        <option value="$PROJECT_DIR$/qLearning.py" />
+        <option value="$PROJECT_DIR$/deepQ.py" />
+        <option value="$PROJECT_DIR$/layouts/test.lay" />
+        <option value="$PROJECT_DIR$/testTeam.py" />
+        <option value="$PROJECT_DIR$/testTeam3.py" />
+        <option value="$PROJECT_DIR$/layouts/data.txt" />
+        <option value="$PROJECT_DIR$/layout.py" />
+        <option value="$PROJECT_DIR$/lg.py" />
+        <option value="$PROJECT_DIR$/data.txt" />
+        <option value="$PROJECT_DIR$/testTeam2.py" />
+        <option value="$PROJECT_DIR$/distanceCalculator.py" />
+        <option value="$PROJECT_DIR$/mypre.py" />
+        <option value="$PROJECT_DIR$/layouts/defaultCapture.lay" />
+        <option value="$PROJECT_DIR$/layouts/tinyCapture.lay" />
+        <option value="$PROJECT_DIR$/baselineTeam.py" />
+        <option value="$PROJECT_DIR$/lg10.py" />
+        <option value="$PROJECT_DIR$/myTeam10.6.py" />
+        <option value="$PROJECT_DIR$/layouts/random00008467Capture.lay" />
+        <option value="$PROJECT_DIR$/layouts/random00001292Capture.lay" />
+        <option value="$PROJECT_DIR$/myPre.py" />
+        <option value="$PROJECT_DIR$/lc.py" />
+        <option value="$PROJECT_DIR$/layouts/contestCapture.lay" />
+        <option value="$PROJECT_DIR$/myTeam10.7.py" />
+        <option value="$PROJECT_DIR$/layouts/contest10.lay" />
+        <option value="$PROJECT_DIR$/lc10.11.py" />
+        <option value="$PROJECT_DIR$/myTeam10.11.2.py" />
+        <option value="$PROJECT_DIR$/Team1.0.py" />
+        <option value="$PROJECT_DIR$/layouts/random00004993Capture.lay" />
+        <option value="$PROJECT_DIR$/layouts/contest04Capture.lay" />
+        <option value="$PROJECT_DIR$/layouts/contest19c.lay" />
+        <option value="$PROJECT_DIR$/myTeam14.py" />
+        <option value="$PROJECT_DIR$/layouts/random00003695Capture.lay" />
+        <option value="$PROJECT_DIR$/lg15.py" />
+        <option value="$PROJECT_DIR$/generateTournamentLayouts.py" />
+        <option value="$PROJECT_DIR$/myTeam.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="815" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pacman-contest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pacman-contest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pacman-contest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pacman-contest" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pacman-contest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pacman-contest" type="462c0819:PsiDirectoryNode" />
+              <item name="replay" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pacman-contest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pacman-contest" type="462c0819:PsiDirectoryNode" />
+              <item name="teamhistory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pacman-contest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/layouts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.capture">
+    <configuration name="capture" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pacman-contest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/capture.py" />
+      <option name="PARAMETERS" value="-r myTeam -b aStar -l layouts/random00009697Capture.lay" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="generateTournamentLayouts" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pacman-contest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/generateTournamentLayouts.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.capture" />
+      <item itemvalue="Python.generateTournamentLayouts" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.capture" />
+        <item itemvalue="Python.generateTournamentLayouts" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bdb028c0-461d-4757-8309-5196c11f4c45" name="Default Changelist" comment="" />
+      <created>1568892756055</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568892756055</updated>
+      <workItem from="1568892757257" duration="163000" />
+      <workItem from="1568946684187" duration="1349000" />
+      <workItem from="1568959731499" duration="1666000" />
+      <workItem from="1569062534813" duration="703000" />
+      <workItem from="1569234977496" duration="5041000" />
+      <workItem from="1569291837837" duration="8245000" />
+      <workItem from="1569367619539" duration="21509000" />
+      <workItem from="1569406662319" duration="16460000" />
+      <workItem from="1569459802647" duration="5395000" />
+      <workItem from="1569477125181" duration="37733000" />
+      <workItem from="1569548734851" duration="20331000" />
+      <workItem from="1569578727790" duration="24909000" />
+      <workItem from="1569660305917" duration="4511000" />
+      <workItem from="1569735393026" duration="92000" />
+      <workItem from="1569817473761" duration="175000" />
+      <workItem from="1569818238128" duration="307000" />
+      <workItem from="1569818929892" duration="1500000" />
+      <workItem from="1569820971715" duration="42000" />
+      <workItem from="1569824951167" duration="572000" />
+      <workItem from="1569826794983" duration="22821000" />
+      <workItem from="1569930479304" duration="459000" />
+      <workItem from="1569937014992" duration="87000" />
+      <workItem from="1570086681149" duration="461000" />
+      <workItem from="1570100949414" duration="6745000" />
+      <workItem from="1570117489314" duration="2313000" />
+      <workItem from="1570175443440" duration="14135000" />
+      <workItem from="1570198330868" duration="4186000" />
+      <workItem from="1570204155658" duration="740000" />
+      <workItem from="1570237422987" duration="3220000" />
+      <workItem from="1570241130567" duration="3792000" />
+      <workItem from="1570251543756" duration="46645000" />
+      <workItem from="1570360728468" duration="18378000" />
+      <workItem from="1570422928873" duration="5871000" />
+      <workItem from="1570435652867" duration="2963000" />
+      <workItem from="1570450473918" duration="15180000" />
+      <workItem from="1570504781124" duration="23390000" />
+      <workItem from="1570584142866" duration="506000" />
+      <workItem from="1570584721377" duration="11691000" />
+      <workItem from="1570628379889" duration="818000" />
+      <workItem from="1570629863909" duration="815000" />
+      <workItem from="1570670007660" duration="1398000" />
+      <workItem from="1570677978572" duration="314000" />
+      <workItem from="1570686334393" duration="1137000" />
+      <workItem from="1570704017215" duration="4942000" />
+      <workItem from="1570787925818" duration="71185000" />
+      <workItem from="1570927846464" duration="25842000" />
+      <workItem from="1570957939711" duration="13353000" />
+      <workItem from="1570976980868" duration="642000" />
+      <workItem from="1571004767284" duration="19706000" />
+      <workItem from="1571057335455" duration="17762000" />
+      <workItem from="1571097988916" duration="9180000" />
+      <workItem from="1571109979795" duration="18166000" />
+      <workItem from="1571168602015" duration="1955000" />
+      <workItem from="1571190072765" duration="1665000" />
+      <workItem from="1571199100817" duration="1237000" />
+      <workItem from="1571201129784" duration="682000" />
+      <workItem from="1571212779194" duration="4687000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="529772000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="815" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3383405" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3264177" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985694" weight="0.34439835" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39972338" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32918397" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50143063" side_tool="true" weight="0.45694444" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.2821577" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49928468" weight="0.32916668" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/replay/AISquad_vs_staff_team_super_RANDOM4747.replay">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teamhistory/myTeam10.5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-853">
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teamhistory/myTeam10.8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-523">
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teamhistory/myTeam10.11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-289">
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teamhistory/myTeam10.11.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4201">
+          <caret line="192" column="14" lean-forward="true" selection-start-line="141" selection-start-column="8" selection-end-line="148" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/replay/2/AISquad_vs_staff_team_basic_RANDOM3188.replay">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/replay/2/AISquad_vs_staff_team_medium_RANDOM3188.replay">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="96" selection-start-line="7" selection-start-column="96" selection-end-line="7" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/replay/1/anonymousTeam_vs_AISquad_contest19cCapture.replay">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/replay/1/ByeByeGhost_vs_AISquad_RANDOM1336.replay">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myTeam14.py" />
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/numpy/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lg15.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="865" column="24" lean-forward="true" selection-start-line="865" selection-start-column="24" selection-end-line="865" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capture.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="224" column="6" selection-start-line="224" selection-start-column="6" selection-end-line="224" selection-end-column="29" />
+          <folding>
+            <element signature="e#2326#2356#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/replay/AISquad_vs_staff_team_top_RANDOM3323.replay">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generateTournamentLayouts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distanceCalculator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1995">
+          <caret line="133" column="41" selection-start-line="133" selection-start-column="41" selection-end-line="133" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Team1.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-287">
+          <caret line="132" column="33" lean-forward="true" selection-start-line="132" selection-start-column="33" selection-end-line="132" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myTeam15.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-444">
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myTeam.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="558" column="39" selection-start-line="558" selection-start-column="39" selection-end-line="558" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/random00008929Capture.lay">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/random00008661Capture.lay">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/random00008467Capture.lay">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/random00006976Capture.lay">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/random00001292Capture.lay">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/random00001336Capture.lay">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/random00003012Capture.lay">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/random00003188Capture.lay">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/random00003323Capture.lay">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/random00003613Capture.lay">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/random00003695Capture.lay">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/random00003778Capture.lay">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/random00003999Capture.lay">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/random00004066Capture.lay">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/random00004214Capture.lay">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/random00008115Capture.lay">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/random00007561Capture.lay">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/random00006992Capture.lay">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/random00006238Capture.lay">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/random00006168Capture.lay">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/random00004993Capture.lay">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/random00004348Capture.lay">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/random00009697Capture.lay">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/random00009965Capture.lay">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/random00008059Capture.lay">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/random00004747Capture.lay">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/random00000104Capture.lay">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/random00001173Capture.lay">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/contest19cCapture.lay">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/contest10Capture.lay">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/contest04Capture.lay">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/contestCapture.lay">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

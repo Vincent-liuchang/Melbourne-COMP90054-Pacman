@@ -60,7 +60,6 @@ class Distancer:
       return self._distances[key]
     else:
       raise Exception("Positions not in grid: " + str(key))
-
   def isReadyForMazeDistance(self):
     return self._distances != None
 

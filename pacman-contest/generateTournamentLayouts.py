@@ -23,15 +23,16 @@ layouts for the nightly tournament.
 
 if __name__=="__main__":
   num = 9
-  if len(sys.argv) > 1: # command line argument: number of maps to generate
-    num = int(sys.argv[1])
-
-  seedsfile = '../driver/SEEDS'
-  with open(seedsfile,'w') as out:
-    pass
+  # if len(sys.argv) > 1: # command line argument: number of maps to generate
+  #   num = int(sys.argv[1])
+  #
+  # seedsfile = '../driver/SEEDS'
+  # with open(seedsfile,'w') as out:
+  #   pass
 
   for i in range(num):
-    seed = random.randint(0,99999999)
+    seed = random.randint(0, 99999999)
+    seed = 3323
     layout = 'layouts/random%08dCapture.lay' % seed
     print('Generating random layout in %s' % layout)
     with open(layout, 'w') as out:
@@ -39,8 +40,8 @@ if __name__=="__main__":
       out.write(maze)
       print(maze)
 
-    with open(seedsfile, 'a') as out:
-      out.write("%d\n"%seed)
+    # with open(seedsfile, 'a') as out:
+    #   out.write("%d\n"%seed)
 
 
 
